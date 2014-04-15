@@ -13,7 +13,14 @@ His research interests include
 - diagnostic testing
 - longitudinal data methods.
 
-More detial about me can be found in [CV](.). 
+More detial about me can be found in [my CV](.). 
+
+*Contact information*
+
+Address: Brown University, Box GS121-7, Providence, RI 02912 USA. 
+Phone: +1(401)-680-0158
+email: tliu@stat.brown.edu
+
 
 --- 
 Updated Apirl 2014
