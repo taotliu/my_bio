@@ -13,11 +13,11 @@ His [research](taotliu.github.io/my_research) interests include
 - diagnostic testing
 - longitudinal data methods.
 
-### CV
-
 More detial about me can be found in [my CV](.). 
 
-### Contact information
+--- 
+
+**Contact information**
 
 - Address: Brown University, Box GS121-7, Providence, RI 02912 USA. 
 - Phone: +1 (401)-680-0158 (c); +1 (401) 863-6480 (o)
