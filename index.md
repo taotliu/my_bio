@@ -13,7 +13,7 @@ His [research](htt://taotliu.github.io/my_research) interests include
 - diagnostic testing
 - longitudinal data methods.
 
-More detial about me can be found in [my CV](assets/CV_tliu.pdf). 
+More detials about me can be found in [my CV](assets/CV_tliu.pdf) [updated Feb 2014]. 
 
 --- 
 
