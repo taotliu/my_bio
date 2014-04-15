@@ -1,8 +1,14 @@
 ---
 layout: page
-title: My Research
-tagline: Research
+title: My Biography 
+tagline: bio
 ---
+
+I obtained my PhD degree in Biostatistics at (the University of Pennsylvania)[http://upenn.edu] in 2006. Then I joined the faculty in (the Department of Biostatistics and Center for Statistical Sciences)[http://stat.brown.edu] at (Brown)[http://brown.edu]. I am also a faculty member affiliated with (the Center for AIDS Research (CFAR))[http://cfar.org], the Alcohol Research Center on HIV, and American College of Radiology Imaging Network ((ACRIN))[http://acrin.org]. His research interests include incomplete data problems, causal inference, diagnostic testing, and longitudinal data methods.
+
+My CV is available (here)[.]. 
+
+
 
 [Github Pages](http://pages.github.com) provide a simple way to make a
 website using
