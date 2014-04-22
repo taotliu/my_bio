@@ -20,15 +20,14 @@ More detials about me can be found in [my CV](assets/CV_tliu.pdf) [updated Feb 2
 ### Education 
 
 
-- 2006		Ph.D.	(Biostatistics)		The University of Pennsylvania, PA, US
+- 2006 Ph.D. (Biostatistics), The University of Pennsylvania
 
-- 2003 		  M.S. 	    (Statistics)	   		Iowa State University, IA, US
+- 2003 M.S. (Statistics), Iowa State University
 
-- 2002 	 M.S. 	    (Civil Engineering) 	Iowa State University, IA, US
+- 2002 M.S. (Civil Engineering), Iowa State University
 
-- 1999 		    B.E.    (Environmental Engineering)  		 Tsinghua University, Beijing, China
-		    	    
-
+- 1999 B.E. (Environmental Engineering), Tsinghua University
+		    	   
 
 --- 
 
