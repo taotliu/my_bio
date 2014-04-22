@@ -20,15 +20,13 @@ More detials about me can be found in [my CV](assets/CV_tliu.pdf) [updated Feb 2
 ### Education 
 
 
-- 2006		Ph.D.	Biostatistics		The University of Pennsylvania, PA, US
-PhD Dissertation: Measuring sensitivity to nonignorable censoring in nonparametric and semiparametric survival modeling.
+- 2006		Ph.D.	(Biostatistics)		The University of Pennsylvania, PA, US
 
-- 2003 		  M.S. 	    Statistics	   		Iowa State University, IA, US
-Improved Confidence Interval Estimation for Parameters in Nonlinear Models
+- 2003 		  M.S. 	    (Statistics)	   		Iowa State University, IA, US
 
-- 2002 	 M.S. 	    Civil Engineering 	Iowa State University, IA, US
-	 	    Ammonia Inhibition in Thermophilic Anaerobic Process
-- 1999 		    B.E.    Environmental Engineering  		 Tsinghua University, Beijing, China
+- 2002 	 M.S. 	    (Civil Engineering) 	Iowa State University, IA, US
+
+- 1999 		    B.E.    (Environmental Engineering)  		 Tsinghua University, Beijing, China
 		    	    
 
 
